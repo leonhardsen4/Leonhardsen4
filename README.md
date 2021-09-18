@@ -11,5 +11,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardsen4&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardsen4)](https://github.com/leonhardsen4/github-readme-stats)
-
-
