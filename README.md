@@ -1,6 +1,6 @@
 ### Olá!
 
-#### 🧔🏽 Meu nome é Leonardo Silva Lima, tenho 37 anos e moro em Cotia/SP. Sou casado e pai de uma filha.
+#### 🧔🏽 Sou o Léo
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 Atualmente trabalho como técnico administrativo no Procon/SP.
