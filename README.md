@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá!
 
-<!--
-**leonhardsen4/Leonhardsen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧔🏽 Meu nome é Leonardo Silva Lima, tenho 37 anos e moro em Cotia/SP. Sou casado e pai de uma filha.
 
-Here are some ideas to get you started:
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 💼 Atualmente trabalho como técnico administrativo no Procon/SP.
+- 📚 Estudando Java, Git, SQL. Entendo um pouco de HTML, CSS e VBA.
+- 💻 Estou interessado em entrar no mercado de TI.
+- 📑 Gosto de resolver problemas e criar soluções para automatizar tarefas de escritório.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardsen4&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardsen4)](https://github.com/leonhardsen4/github-readme-stats)
+
+
