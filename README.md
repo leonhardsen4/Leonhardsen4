@@ -4,8 +4,8 @@
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 Atualmente trabalho como técnico administrativo no Procon/SP.
-- 📚 Estudando Java. Entendo um pouco de Web e VBA.
+- 📚 Estudando Java. Entendo um pouco de Desenvolvimento Web.
 - 💻 Estou interessado em entrar no mercado de TI.
-- 📑 Gosto de desafios, resolver problemas e criar soluções para automatizar tarefas.
+- 📑 Gosto de desafios, resolver problemas com programação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardsen4&show_icons=true&theme=gruvbox)
+:stuck_out_tongue_closed_eyes: IT'S MORE FUN TO COMPUTE!
