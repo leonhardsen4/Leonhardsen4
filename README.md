@@ -9,5 +9,5 @@
 - ☕ Programo em **Java** por puro prazer — não busco migrar para a área de TI, é hobby e paixão mesmo
 - 🧠 Valorizo acima de tudo **trabalho bem feito** e **inteligência** aplicada na resolução de problemas
 - 🧩 Gosto de desafios e de resolver problemas através da programação
-  
-- 😝 **IT'S MORE FUN TO COMPUTE!**
+
+  😝 **IT'S MORE FUN TO COMPUTE!**
